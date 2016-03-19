@@ -22,7 +22,7 @@
 
 ### Пример работы
 
-![passgen](/home/dub/projects/bash/bash-course-labs/img/passgen.gif  "passgen")
+![passgen](https://raw.githubusercontent.com/yeltsov/bash-course-labs/master/img/passgen.gif  "passgen")
 
 ## Time
 
@@ -35,7 +35,7 @@
 
 ### Пример работы
 
-![time](/home/dub/projects/bash/bash-course-labs/img/time.gif  "time")
+![time](https://raw.githubusercontent.com/yeltsov/bash-course-labs/master/img/time.gif  "time")
 
 ## Ps
 
@@ -57,7 +57,7 @@
 
 ### Пример работы
 
-![ps](/home/dub/projects/bash/bash-course-labs/img/ps.gif "ps")
+![ps](https://raw.githubusercontent.com/yeltsov/bash-course-labs/master/img/ps.gif "ps")
 
 ## Sedtext
 
@@ -74,7 +74,7 @@
 
 ### Пример работы
 
-![sedtext](/home/dub/projects/bash/bash-course-labs/img/sedtext.gif "sedtext")
+![sedtext](https://raw.githubusercontent.com/yeltsov/bash-course-labs/master/img/sedtext.gif "sedtext")
 
 ## Game
 
@@ -87,4 +87,4 @@
 
 ### Пример работы
 
-![game](/home/dub/projects/bash/bash-course-labs/img/game.gif "game")
+![game](https://raw.githubusercontent.com/yeltsov/bash-course-labs/master/img/game.gif "game")
