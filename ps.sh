@@ -15,9 +15,6 @@ usage() {
   -m, --memory         show name of memory
   -h, --help           output help information
 
-  yeltsov ilya, 418
-  dmitrin yuri, 418
-
 EOF
 }
 
