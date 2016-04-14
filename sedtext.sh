@@ -1,7 +1,5 @@
 #!/bin/bash
 
-stdin=$(</dev/stdin)
-
 usage() {
   cat <<-EOF
 
@@ -18,11 +16,13 @@ usage() {
 EOF
 }
 
-if [[ $# -eq 0 ]]
+if [[ $# -eq 0 ]] || [[ $1 == "-h" ]]
 then
   usage
   exit 0
 fi
+
+stdin=$(</dev/stdin)
 
 while [[ $# -ne 0 ]]; do
   case $1 in
